@@ -1,0 +1,49 @@
+.
+├── assets
+│   └── css
+│       └── layout.css
+├── courses
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── 0001_initial.cpython-35.pyc
+│   │       └── __init__.cpython-35.pyc
+│   ├── models.py
+│   ├── __pycache__
+│   │   ├── admin.cpython-35.pyc
+│   │   ├── __init__.cpython-35.pyc
+│   │   ├── models.cpython-35.pyc
+│   │   ├── urls.cpython-35.pyc
+│   │   └── views.cpython-35.pyc
+│   ├── templates
+│   │   └── courses
+│   │       └── course_list.html
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── db.sqlite3
+├── learning_site
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-35.pyc
+│   │   ├── settings.cpython-35.pyc
+│   │   ├── urls.cpython-35.pyc
+│   │   ├── views.cpython-35.pyc
+│   │   └── wsgi.cpython-35.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   ├── views.py
+│   └── wsgi.py
+├── lpr
+├── manage.py
+└── templates
+    ├── base.html
+    ├── date_time.html
+    ├── home.html
+    └── layout.html
+
+11 directories, 35 files
